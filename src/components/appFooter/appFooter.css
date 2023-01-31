@@ -1,0 +1,16 @@
+footer {
+    line-height: 3rem;
+    box-sizing: border-box;
+    background-color: #6d6d6d;
+}
+
+.footer-container {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.footer-flat-container {
+    position: absolute;
+    left: calc(50% - 1.8rem);
+    bottom: calc(3rem - 1.8rem);
+}

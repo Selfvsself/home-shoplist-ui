@@ -1,0 +1,25 @@
+.product-item-container {
+    margin-top: 4px;
+    background-color: #565656;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.product-item-content {
+    padding: 8px;
+}
+
+.product-item-title {
+    padding: 4px;
+}
+
+.product-item-category {
+    font-size: 0.75rem;
+    padding: 0 8px;
+}
+
+.item-btn {
+    height: 100%;
+}

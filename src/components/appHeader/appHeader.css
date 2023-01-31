@@ -1,0 +1,14 @@
+header.app-header {
+    line-height: 3rem;
+    padding: 0 16px;
+    background: #689f38;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+label {
+    font-size: 1.25rem;
+}

@@ -1,0 +1,13 @@
+.btn-fab {
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+    background: #689f38;
+    margin: auto;
+    width: 3.6rem;
+    height: 3.6rem;
+    font-size: 1.5rem;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+

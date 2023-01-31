@@ -1,0 +1,10 @@
+.mt-image-btn {
+    border: none;
+    cursor: pointer;
+    border-radius: 0;
+    background: #689f38;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+}

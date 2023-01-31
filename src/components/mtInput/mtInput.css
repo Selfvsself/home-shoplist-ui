@@ -1,0 +1,16 @@
+.mt-input {
+    background: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    margin: 8px 16px;
+    width: 300px;
+    display: block;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid white;
+}
+
+.mt-input:focus {
+    outline: none;
+}
